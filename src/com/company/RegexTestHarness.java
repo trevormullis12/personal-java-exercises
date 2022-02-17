@@ -5,7 +5,7 @@ import java.util.regex.Matcher;
 
 public class RegexTestHarness {
 
-    public static void main(String[] args){
+    public void test(){
         Scanner scanner = new Scanner(System.in);
         while (true) {
             System.out.print("\nEnter your regex: ");
